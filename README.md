@@ -24,7 +24,7 @@ Python, Matlab을 이용하여 암 예상 영역을 추출한 뒤 머신러닝, 
   
   
   <div>
-  <img height="500" width="800" src="https://user-images.githubusercontent.com/52990629/71306005-89ef4680-241e-11ea-8298-be468bbf237d.JPG">
+  <img height="300" width="700" src="https://user-images.githubusercontent.com/52990629/71306005-89ef4680-241e-11ea-8298-be468bbf237d.JPG">
   
   </div>
   
