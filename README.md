@@ -31,7 +31,7 @@ Python, Matlab을 이용하여 암 예상 영역을 추출한 뒤 머신러닝, 
   근육 제거 과정입니다.
   
   <div>
-    <img width="1000" src="https://user-images.githubusercontent.com/52990629/71306004-88258300-241e-11ea-9334-ebd63f764772.JPG">
+    <img width="800" src="https://user-images.githubusercontent.com/52990629/71306004-88258300-241e-11ea-9334-ebd63f764772.JPG">
   
   
   </div>
@@ -48,7 +48,7 @@ Python, Matlab을 이용하여 암 예상 영역을 추출한 뒤 머신러닝, 
     <img width="1000" src="https://user-images.githubusercontent.com/52990629/71306007-8bb90a00-241e-11ea-8511-54bcd852df3d.png">
     
     
-    </div>
+   </div>
     
     
   딥러닝에 학습 시켰습니다.
@@ -56,7 +56,7 @@ Python, Matlab을 이용하여 암 예상 영역을 추출한 뒤 머신러닝, 
   
   
    <div>
-    <img width="1000" src="https://user-images.githubusercontent.com/52990629/71306008-8cea3700-241e-11ea-876d-6e10ebd83d2b.png">
+    <img width="800" src="https://user-images.githubusercontent.com/52990629/71306008-8cea3700-241e-11ea-876d-6e10ebd83d2b.png">
     
     
    </div>
