@@ -24,14 +24,14 @@ Python, Matlab을 이용하여 암 예상 영역을 추출한 뒤 머신러닝, 
   
   
   <div>
-  <img width="1000" src="https://user-images.githubusercontent.com/52990629/71306005-89ef4680-241e-11ea-8298-be468bbf237d.JPG">
+  <img width="800" src="https://user-images.githubusercontent.com/52990629/71306005-89ef4680-241e-11ea-8298-be468bbf237d.JPG">
   
   </div>
   
   근육 제거 과정입니다.
   
   <div>
-    <img width="800" src="https://user-images.githubusercontent.com/52990629/71306004-88258300-241e-11ea-9334-ebd63f764772.JPG">
+    <img width="1000" src="https://user-images.githubusercontent.com/52990629/71306004-88258300-241e-11ea-9334-ebd63f764772.JPG">
   
   
   </div>
@@ -56,13 +56,14 @@ Python, Matlab을 이용하여 암 예상 영역을 추출한 뒤 머신러닝, 
   
   
    <div>
-    <img width="800" src="https://user-images.githubusercontent.com/52990629/71306008-8cea3700-241e-11ea-876d-6e10ebd83d2b.png">
+    <img width="600" src="https://user-images.githubusercontent.com/52990629/71306008-8cea3700-241e-11ea-876d-6e10ebd83d2b.png">
     
     
    </div>
     
     
   drop out층을 캡쳐한 모습입니다.
+    
     
     
     
